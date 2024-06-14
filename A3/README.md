@@ -2,4 +2,4 @@
 ## 1. Machine Learning & Neural Networks
 - All answers are posted on the pdf file.
 ## 2. Neural Transition-Based Dependency Parsing
-- Codes are uploaded :)
+- Codes are uploaded. Some answers are posted on the pdf file. Please check :)
